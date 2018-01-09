@@ -54,19 +54,24 @@ ra ve alt başlıklara yer verilir
 * Çalışma  grubunuz,  evreniniz,  örnekleminiz 
 (çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
 sahanız, yeriniz ve bunların özellikleri
+
 :Çalışmamız bir deneydi,bu deneyi ocak olan her yerde yapabilirsiniz.Biz de bu deneyi evimin mutfağında yaptık.Bu deney sayesinde ihtiyacımız olan verileri topladık.
+
 * Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
 toplama süreciniz
+
 :Veri toplama araçlarımız internetten bulduğumuz kaynaklar ve yaptığımız deney.Kaynakları IYPT ve çeşitli internet sayfalarından bulduk.Bu kaynaklar daha doğrusu önceden yapılmış örnekler deneyimizi  yapmamızı ve konuyu yani projeyi daha iyi anlamımızı sağladı.Diğer bir veri toplama aracımız olan deneyde ise önceden yapılan deney örnekleri ve projemizde bahsettiği kadarı yeterli oldu.Yani deney için ekstra bir şey araştırmamıza gerek kalmadı.Yaptığımız deney eklerdeki videolarda detaylı bir şekilde bulunmaktadır.
+
 * Gözlemlerinizi, saha çalışmalarınızı ve bu
 nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
 bunun için hangi araç ya da yazılımları kullandığınız
-:Deneyimizi yaparken çikalataların erime ve donma süreleri ile donduğunda oluşacak şekil bizim için önemliydi.Deney yerimiz mutfaktı (ocak olduğu için) ve burada ocağı çikolatalarımızı eritmek için kullandık.Vkullandık.Ve çikolatalarımızı benmari usulü erittik.
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
+:Deneyimizi yaparken çikalataların erime ve donma süreleri ile donduğunda oluşacak şekil bizim için önemliydi.Deney yerimiz mutfaktı (ocak olduğu için) ve burada ocağı çikolatalarımızı eritmek için kullandık.Vkullandık.Ve çikolatalarımızı benmari usulü erittik.
+
+* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
 önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
 özellikleri  belirtilmelidir.  
+
 : Deneyimizde 6 modlen bitter çikolata,bir cam kase,bir ketıl,bir metal kap(suyu ısıtmak için), bir bardak su ,ocak ve bir kaşık kullandık.Ölçmek için ihtiyacımız olan yalnızca saatti.Saatle kaç dakikada erimeye başladığını,kaç dakikada eridiğini ve kaç dakikada donduğunu hesapladık.Ve videomuzu hazırlamak için inShot uygulamasını kullandık.Bu uygulama sayrsinde videomuz hem daha kaliteli hem de daha izlenebilir oldu.Bizim dneyimizdeki en önemli 2 madde ocak ve çikolataydı.Bu iki unsur olmasa zaten deney asla yapılamazdı. Ayrıca deneyi çekil videoyu tamamladıktan sonra videoyu yükleyebilmek için (bizim videomuz 88 mb'tı ve Github en fazla 25 mb video alıyor.)düzenlemeler yapmamız gerekti.Videonun görüntü ve çeşitli özellikleriyle oynamamız gerekti.Ayrıca çikolatanın en safa yakın olan bitter çikolata olması da çok önemliydi.Bu sayede deneyimiz doğruya en yakın sonucu verecekti.
 
 Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
@@ -77,6 +82,7 @@ uygun olacaktır.
 tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
 a çalışılan 
 laboratuvarın özellikleri de belirtilmelidir. 
+
 :Bizim gurubumuz 2 kişilik bir grup ve maalesef ikimizin buluşma imkanı olmadı.Bu yüzden ikimiz de kendi evlerimizde bu deneyi yapmak zorunda kaldık bu yüzden deney iki kere tekrarlanmıs oldu. Ekteki deney fotoğraf ve video bölümündeki video Betül'ün yaptığı deney ve fotoğraf kısmındaki deney ise Elif'in yaptığı deneyin bulguları. Elif'in deneyi kendi evinde ve mutfakta,Betül'ün deneyi de kendi evinde ve mutfakta yapıldı.Betül'ün yaptığı deney 4 saat sürdü. 
 
 * Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
