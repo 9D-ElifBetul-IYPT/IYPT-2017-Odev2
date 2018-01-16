@@ -60,19 +60,19 @@ sahanız, yeriniz ve bunların özellikleri
 * Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
 toplama süreciniz
 
-:Veri toplama araçlarımız internetten bulduğumuz kaynaklar ve yaptığımız deney.Kaynakları IYPT ve çeşitli internet sayfalarından bulduk.Bu kaynaklar daha doğrusu önceden yapılmış örnekler deneyimizi  yapmamızı ve konuyu yani projeyi daha iyi anlamımızı sağladı.Diğer bir veri toplama aracımız olan deneyde ise önceden yapılan deney örnekleri ve projemizde bahsettiği kadarı yeterli oldu.Yani deney için ekstra bir şey araştırmamıza gerek kalmadı.Yaptığımız deney eklerdeki videolarda detaylı bir şekilde bulunmaktadır.
+:Veri toplama araçlarımız internetten bulduğumuz kaynaklar.Kaynakları IYPT Arşiv'inden ve çeşitli internet sayfalarından bulduk.Bu kaynaklar daha doğrusu önceden yapılmış örnekler deneyimizi  yapmamızı ve projeyi daha iyi anlamamızı sağladı.Diğer bir veri toplamadğımız şey ise önceden yapılan bu konudaki deney örnekleriydi.
 
 * Gözlemlerinizi, saha çalışmalarınızı ve bu
 nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
 bunun için hangi araç ya da yazılımları kullandığınız
 
-:Deneyimizi yaparken çikalataların erime ve donma süreleri ile donduğunda oluşacak şekil bizim için önemliydi.Deney yerimiz mutfaktı (ocak olduğu için) ve burada ocağı çikolatalarımızı eritmek için kullandık.Vkullandık.Ve çikolatalarımızı benmari usulü erittik.
+:Deneyimizi yaparken çikalataların erime ve donma süreleri ile donduğunda oluşacak şekil bizim için önemliydi.Deney yerimiz mutfaktı  ve burada ocağı çikolatalarımızı eritmek için kullandık.Vkullandık.Ve çikolatalarımızı Benmari usulü erittik.
 
 * Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
 önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
 özellikleri  belirtilmelidir.  
 
-: Deneyimizde 6 modlen bitter çikolata,bir cam kase,bir ketıl,bir metal kap(suyu ısıtmak için), bir bardak su ,ocak ve bir kaşık kullandık.Ölçmek için ihtiyacımız olan yalnızca saatti.Saatle kaç dakikada erimeye başladığını,kaç dakikada eridiğini ve kaç dakikada donduğunu hesapladık.Ve videomuzu hazırlamak için inShot uygulamasını kullandık.Bu uygulama sayrsinde videomuz hem daha kaliteli hem de daha izlenebilir oldu.Bizim dneyimizdeki en önemli 2 madde ocak ve çikolataydı.Bu iki unsur olmasa zaten deney asla yapılamazdı. Ayrıca deneyi çekil videoyu tamamladıktan sonra videoyu yükleyebilmek için (bizim videomuz 88 mb'tı ve Github en fazla 25 mb video alıyor.)düzenlemeler yapmamız gerekti.Videonun görüntü ve çeşitli özellikleriyle oynamamız gerekti.Ayrıca çikolatanın en safa yakın olan bitter çikolata olması da çok önemliydi.Bu sayede deneyimiz doğruya en yakın sonucu verecekti.
+: Deneyimizde 6 modlen bitter çikolata,bir cam kase,bir ketıl-tencere,, bir bardak su ,ocak ve bir kaşık kullandık.Ölçmek için ihtiyacımız olan yalnızca saatti.Saatle kaç dakikada erimeye başladığını,kaç dakikada eridiğini ve kaç dakikada donduğunu hesapladık.Ve videomuzu hazırlamak için inShot uygulamasını kullandık.Bu uygulama sayesinde videomuz hem daha kaliteli hem de daha izlenebilir oldu.Bizim dneyimizdeki en önemli 2 madde ocak ve çikolataydı.. Ayrıca deneyi çekil videoyu tamamladıktan sonra videoyu yükleyebilmek için (bizim videomuz 88 mb'tı ve Github en fazla 25 mb video alıyor.)düzenlemeler yapmamız gerekti.Videonun görüntü ve çeşitli özellikleriyle oynamamız gerekti.Ayrıca çikolatanın en saf haline yakın olan bitter çikolata olması da çok önemliydi.Bu sayede deneyimiz doğruya en yakın sonucu verecekti.
 
 Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
 levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
@@ -83,14 +83,13 @@ tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilm
 a çalışılan 
 laboratuvarın özellikleri de belirtilmelidir. 
 
-:Bizim gurubumuz 2 kişilik bir grup ve maalesef ikimizin buluşma imkanı olmadı.Bu yüzden ikimiz de kendi evlerimizde bu deneyi yapmak zorunda kaldık bu yüzden deney iki kere tekrarlanmıs oldu. Ekteki deney fotoğraf ve video bölümündeki video Betül'ün yaptığı deney ve fotoğraf kısmındaki deney ise Elif'in yaptığı deneyin bulguları. Elif'in deneyi kendi evinde ve mutfakta,Betül'ün deneyi de kendi evinde ve mutfakta yapıldı.Betül'ün yaptığı deney 4 saat sürdü. 
-
+:Bizim gurubumuz 2 kişilik bir gruptu.DBulguları artışabilmek ve deneyin geçerli olması açısından ikimiz de kendi evlerimizde bu deneyi yaptık,iki deneyi de tartıştık ve ortak sonuçlara vardık. 
 * Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
 # 1)Deneyi Yapanlar
 Betül Rana Çelik
 Elifnaz Kurt
 # 2)Deneyden Önce Veri Toplama
-Ödev1'de bulmuş olduğumuz kaynaklar(video,bilgiler,fotoğraflar) ve önceden yapılan deneylerin fotoğrafları ve bulguları çok işimize yaradı.BU veriler sayesinde deneyimizde yapacaklarımız ve ne gibi sonuçlar çıkabileceğinden haberdar olduk. Deneyde hangi malzemeleri ve yöntemleri kullanacağımızı bu videolar sayesinde belirledik
+Ödev1'de bulmuş olduğumuz kaynaklar(video,bilgiler,fotoğraflar) ve önceden yapılan deneylerin fotoğrafları ve bulgulardan yola çıktık ve onları kaynak olarak kullandık.BU veriler sayesinde deneyimizde yapacaklarımızı ve ne gibi bulgulara ulaşabileceğimizi tespit ettik. Deneyde hangi malzemeleri ve yöntemleri kullanacağımızı bu videolar sayesinde belirledik.
 # 3)Deneyde Kullanılan Materyaller
 •6adet Medlen Bitter Çİkolata
 •Bir Cam Kase
@@ -102,11 +101,11 @@ Elifnaz Kurt
   Deneyimizde çikolataları eritmek için benmari usülü denilen  çikolata eritme yöntemini kullandık.Bu yönteme kaynaklarımızda da bulunan https://m.youtube.com/watch?v=ISkvx0uaLv0 linkinden ulaşabilirsiniz.
   Deneyimi çektiğimiz videoyu düzenlemek için kullandığımız uygulama da inShot uygulamasıydı.Bu uygulama sayesinde videolar düzenlenebiliyor.
 # 5)Deneyimizi NAsıl Yaptık?
-  Projemizde bizden bir çikolatayı eritip tekrar dondurduğumuzda eski haline dönmediği yani erimeden önceki haline dönmeyip eriöiş haliyle donup o şekilde kalmasının parametrelerini incelememiz isteniyordu.Bu yüzden biz de madelen bitter çikolataları benmari usulü erittik.Erimeye başlama işlemi 5 dk. sürdü ve çikolatamızın tamamen erimesi 1 dk. sürdü.Çikolatamız tamamen eridikten sonra projemizde denildiği üzere oda sıcaklığında beklemeye aldık ve burada da 2,5 saatten sonra çikolatamız tamamen katı hale geldi.Ve tıpkı projenizde istediği gibi katıydı ancak ilk hali (erimeden) önceki hali gibi değildi.Zaten bu işlemler video ve fotoğrafşarda da anlatılmakta l
+  Projemizde bizden bir çikolatayı eritip tekrar dondurduğumuzda eski şekline dönmediği yani erimeden önceki haline dönmeyip erimiş haliyle donup o şekilde kalmasının parametrelerini incelememiz isteniyordu.Bu yüzden biz de madelen bitter çikolataları benmari usulü erittik.Erimeye başlama işlemi 5 dk. sürdü ve çikolatamızın tamamen erimesi 1 dk. sürdü.Çikolatamız tamamen eridikten sonra projemizde denildiği üzere oda sıcaklığında beklemeye aldık ve burada da 2,5 saatten sonra çikolatamız tamamen katı hale geldi.Ve tıpkı projede istendiği gibi katıydı ancak ilk şekli (erimeden) önceki hali gibi değildi.Bu işlemler video ve fotoğraflarda da anlatılmaktadır.
 # 6)Deneyin Yapıldığı Yer
-  Projemiz için yaptığımız 2 deneyi de mutfakta yaptık.Çünkü bizim projemiz için kullanavağımız en önemli materyallerden biri bir ısıtıcı yani ocsktı ve bu ocağında bulunduğu yer mutfak olduğu iç,n deney yeri mutfak.
+  Projemiz için yaptığımız 2 deneyi de mutfakta yaptık.Çünkü bizim projemiz için kullanavağımız en önemli materyallerden biri bir ısıtıcı yani ocaktı.
 # Bulgular (Results)
-: Bizim projemiz çikolata eriyip oda sıcaklığında katı hale geldiginde eski şekline geri dönmemesi ve eridiği şekliyle kalmasının parametrelerini belirlememizdi.Ve biz de bu yüzden bir çikolatayı benmari usulü eritip sonrasına erittiğimiz çikolatayı oda sıcaklığında bir yere koyup donmasını bekledik ve dondu.Ve tıpkı projede belirttiği gibi donduğunda ilk haline (erimeden önceki hâline) dönmedi vs erimış şeklinde kaldı.Bu deneyde ölçtüğümüz değer zamandı. Çikolata benmari  usulü eritmeye başladığımızdan 5 dk. sonra  erimeye başladı.1 dk.'da eridi.Ve 2,5 saatte oda sıcaklığında dondu.Ve eski şeklini(erimeden önceki ) almadı yani deneyimiz başarıyla sonuçlandı.Ayrıca bizim düşüncemize göre yaptığımız bu başlangıç deneyi sayesinde sonradan yapacağımız asıl deneye önemli ve büyük bir hazırlık yalmış olduk ve yapavaklarımızı çok daha iyi anladık.
+: Bizim projemiz çikolata eriyip oda sıcaklığında katı hale geldiginde eski şekline geri dönmemesi ve eridiği şekliyle kalmasının parametrelerini belirlememizdi.Ve biz de bu yüzden bir çikolatayı benmari usulü eritip sonrasına erittiğimiz çikolatayı oda sıcaklığında bir yere koyup donmasını bekledik ve dondu.Tıpkı projede belirtildiği gibi donduğunda ilk şekline (erimeden önceki şekline) dönmedi ve erimış şeklinde kaldı.Bu deneyde ölçtüğümüz değer zamandı. Çikolata benmari  usulü eritmeye başladığımızdan 5 dk. sonra  erimeye başladı.1 dk.'da eridi.Ve 2,5 saatte oda sıcaklığında dondu.Ve eski şeklini(erimeden önceki ) almadı yani deneyimiz başarıyla sonuçlandı.Ayrıca bizim düşüncemize göre yaptığımız bu başlangıç deneyi sayesinde sonradan yapacağımız asıl deneye önemli bir altyapı oluşturduk ve yapmamız gereken testleri daha iyi kavradık.
 
 BurdaBurda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
 
